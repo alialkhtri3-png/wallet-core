@@ -20,3 +20,15 @@ impl IdentityCore {
         format!("Sovereign Identity Core {} online", self.version)
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn identity_core_online() {
+        let core = IdentityCore::new();
+        assert!(core.status().contains("online"));
+        assert_eq!(core.version, "274.2.0");
+    }
+}

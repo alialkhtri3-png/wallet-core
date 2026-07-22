@@ -1949,3 +1949,4 @@ r#"{{
 // Sovereign Identity Rust Core V248 Release
 // Sovereign Identity Rust Core V249 Release
 // Sovereign Identity Rust Core V250 Release
+// Sovereign Identity Rust Core V251 Release

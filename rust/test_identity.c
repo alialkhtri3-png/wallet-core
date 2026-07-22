@@ -3,13 +3,13 @@
 
 int main(){
 
-char *report = tw_identity_scan_wallet(
-"0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
-);
+    char *report = tw_identity_scan_chain_wallet(
+        "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
+    );
 
-printf("V45 Wallet Scan:\n%s\n", report);
+    printf("V46 Chain Intelligence:\n%s\n", report);
 
-tw_identity_string_free(report);
+    tw_identity_string_free(report);
 
-return 0;
+    return 0;
 }

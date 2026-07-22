@@ -3,11 +3,11 @@
 
 int main(){
 
-    char *report = tw_identity_verify_credential(
+    char *report = tw_identity_trust_score(
         "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
     );
 
-    printf("V57 Credential Verification:\n%s\n", report);
+    printf("V58 Trust Aggregation:\n%s\n", report);
 
     tw_identity_string_free(report);
 

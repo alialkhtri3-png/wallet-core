@@ -1749,3 +1749,4 @@ r#"{{
 // Sovereign Identity Rust Core V148 Release
 // Sovereign Identity Rust Core V149 Release
 // Sovereign Identity Rust Core V150 Release
+// Sovereign Identity Rust Core V151 Release

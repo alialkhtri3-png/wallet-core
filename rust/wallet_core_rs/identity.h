@@ -64,3 +64,5 @@ char *tw_identity_reputation_graph(const char *address);
 char *tw_identity_cross_chain_intelligence(const char *address);
 
 char *tw_identity_graph_consensus(const char *address);
+
+char *tw_identity_attestation_engine(const char *address);

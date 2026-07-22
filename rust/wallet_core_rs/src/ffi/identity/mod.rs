@@ -1829,3 +1829,4 @@ r#"{{
 // Sovereign Identity Rust Core V128 Release
 // Sovereign Identity Rust Core V129 Release
 // Sovereign Identity Rust Core V130 Release
+// Sovereign Identity Rust Core V131 Release

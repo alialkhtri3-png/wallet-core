@@ -1813,3 +1813,4 @@ r#"{{
 // Sovereign Identity Rust Core V112 Release
 // Sovereign Identity Rust Core V113 Release
 // Sovereign Identity Rust Core V114 Release
+// Sovereign Identity Rust Core V115 Release

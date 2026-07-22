@@ -1701,3 +1701,4 @@ r#"{{
 // Sovereign Identity Rust Core V100 Release
 // Sovereign Identity Rust Core V101 Release
 // Sovereign Identity Rust Core V102 Release
+// Sovereign Identity Rust Core V103 Release

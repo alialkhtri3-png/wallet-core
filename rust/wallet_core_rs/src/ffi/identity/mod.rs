@@ -1723,3 +1723,4 @@ r#"{{
 // Sovereign Identity Rust Core V122 Release
 // Sovereign Identity Rust Core V123 Release
 // Sovereign Identity Rust Core V124 Release
+// Sovereign Identity Rust Core V125 Release

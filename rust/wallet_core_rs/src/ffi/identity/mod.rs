@@ -1793,3 +1793,4 @@ r#"{{
 // Sovereign Identity Rust Core V92 Release
 // Sovereign Identity Rust Core V93 Release
 // Sovereign Identity Rust Core V94 Release
+// Sovereign Identity Rust Core V95 Release

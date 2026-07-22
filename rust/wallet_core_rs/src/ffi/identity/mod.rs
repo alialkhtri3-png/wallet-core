@@ -1652,3 +1652,5 @@ r#"{{
         .unwrap()
         .into_raw()
 }
+
+// Sovereign Identity Rust Core V74 Module

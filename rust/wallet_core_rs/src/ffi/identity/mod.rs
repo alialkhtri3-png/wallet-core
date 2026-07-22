@@ -1934,3 +1934,4 @@ r#"{{
 // Sovereign Identity Rust Core V233 Release
 // Sovereign Identity Rust Core V234 Release
 // Sovereign Identity Rust Core V235 Release
+// Sovereign Identity Rust Core V236 Release

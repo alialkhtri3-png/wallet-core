@@ -3,11 +3,11 @@
 
 int main(){
 
-    char *report = tw_identity_oracle_engine(
+    char *report = tw_identity_autonomous_agent(
         "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
     );
 
-    printf("V69 Identity Oracle:\n%s\n", report);
+    printf("V70 Autonomous Trust Agent:\n%s\n", report);
 
     tw_identity_string_free(report);
 

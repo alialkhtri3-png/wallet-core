@@ -68,3 +68,5 @@ char *tw_identity_graph_consensus(const char *address);
 char *tw_identity_attestation_engine(const char *address);
 
 char *tw_identity_oracle_engine(const char *address);
+
+char *tw_identity_autonomous_agent(const char *address);

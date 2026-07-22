@@ -1736,3 +1736,4 @@ r#"{{
 // Sovereign Identity Rust Core V135 Release
 // Sovereign Identity Rust Core V136 Release
 // Sovereign Identity Rust Core V137 Release
+// Sovereign Identity Rust Core V138 Release

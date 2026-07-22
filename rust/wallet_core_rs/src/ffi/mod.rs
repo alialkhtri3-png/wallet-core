@@ -12,3 +12,4 @@ pub mod solana;
 pub mod ton;
 #[cfg(feature = "utils")]
 pub mod utils;
+pub mod identity;

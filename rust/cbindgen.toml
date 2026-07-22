@@ -1,0 +1,11 @@
+language = "C"
+pragma_once = true
+
+[parse]
+parse_deps = false
+
+[export]
+include = [
+    "tw_identity_engine_status",
+    "tw_identity_string_free"
+]

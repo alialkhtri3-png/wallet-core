@@ -16,3 +16,4 @@ pub mod v287;
 pub mod v288;
 pub mod v289;
 pub mod v290;
+pub mod core;

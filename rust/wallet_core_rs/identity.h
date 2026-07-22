@@ -72,3 +72,5 @@ char *tw_identity_oracle_engine(const char *address);
 char *tw_identity_autonomous_agent(const char *address);
 
 char *tw_identity_cross_chain_did_network(const char *address);
+
+char *tw_identity_event_stream(const char *address);

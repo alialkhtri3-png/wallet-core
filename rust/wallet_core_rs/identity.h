@@ -50,3 +50,5 @@ char *tw_identity_decision_engine(const char *address);
 char *tw_identity_ai_reasoning(const char *address);
 
 char *tw_identity_policy_enforce(const char *address);
+
+char *tw_identity_api_gateway(const char *address);

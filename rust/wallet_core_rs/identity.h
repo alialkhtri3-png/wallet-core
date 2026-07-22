@@ -58,3 +58,5 @@ char *tw_identity_zk_proof_generate(const char *address);
 char *tw_identity_zora_bridge(const char *address);
 
 char *tw_identity_network_node(const char *address);
+
+char *tw_identity_reputation_graph(const char *address);

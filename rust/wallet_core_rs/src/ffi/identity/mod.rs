@@ -1902,3 +1902,4 @@ r#"{{
 // Sovereign Identity Rust Core V201 Release
 // Sovereign Identity Rust Core V202 Release
 // Sovereign Identity Rust Core V203 Release
+// Sovereign Identity Rust Core V204 Release

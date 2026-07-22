@@ -3,11 +3,11 @@
 
 int main(){
 
-    char *report = tw_identity_graph_analyze_wallet(
+    char *report = tw_identity_sybil_analyze_wallet(
         "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
     );
 
-    printf("V49 Graph Intelligence:\n%s\n", report);
+    printf("V50 Sybil Detection:\n%s\n", report);
 
     tw_identity_string_free(report);
 

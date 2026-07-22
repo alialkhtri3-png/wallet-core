@@ -1673,3 +1673,4 @@ r#"{{
 
 // Sovereign Identity Rust Core V83 Module
 // Sovereign Identity Rust Core V74 Release
+// Sovereign Identity Rust Core V75 Release

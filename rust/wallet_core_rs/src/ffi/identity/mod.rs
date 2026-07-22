@@ -1715,3 +1715,4 @@ r#"{{
 // Sovereign Identity Rust Core V114 Release
 // Sovereign Identity Rust Core V115 Release
 // Sovereign Identity Rust Core V116 Release
+// Sovereign Identity Rust Core V117 Release

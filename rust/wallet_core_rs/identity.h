@@ -34,3 +34,5 @@ char *tw_identity_generate_attestation(const char *address);
 char *tw_identity_get_full_report(const char *address);
 
 char *tw_identity_generate_proof(const char *address);
+
+char *tw_identity_verify_onchain(const char *address);

@@ -3,13 +3,13 @@
 
 int main(){
 
-    char *proof = tw_identity_generate_proof(
+    char *report = tw_identity_verify_onchain(
         "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
     );
 
-    printf("V53 Identity Proof:\n%s\n", proof);
+    printf("V54 On-chain Verification:\n%s\n", report);
 
-    tw_identity_string_free(proof);
+    tw_identity_string_free(report);
 
     return 0;
 }

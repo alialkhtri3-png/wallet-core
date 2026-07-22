@@ -38,3 +38,5 @@ char *tw_identity_generate_proof(const char *address);
 char *tw_identity_verify_onchain(const char *address);
 
 char *tw_identity_registry_check(const char *address);
+
+char *tw_identity_resolve_did(const char *address);

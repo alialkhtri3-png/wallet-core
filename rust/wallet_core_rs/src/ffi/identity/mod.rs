@@ -1873,3 +1873,4 @@ r#"{{
 // Sovereign Identity Rust Core V172 Release
 // Sovereign Identity Rust Core V173 Release
 // Sovereign Identity Rust Core V174 Release
+// Sovereign Identity Rust Core V175 Release

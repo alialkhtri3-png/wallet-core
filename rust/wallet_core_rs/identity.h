@@ -48,3 +48,5 @@ char *tw_identity_trust_score(const char *address);
 char *tw_identity_decision_engine(const char *address);
 
 char *tw_identity_ai_reasoning(const char *address);
+
+char *tw_identity_policy_enforce(const char *address);

@@ -3,11 +3,11 @@
 
 int main(){
 
-    char *report = tw_identity_ai_reasoning(
+    char *report = tw_identity_policy_enforce(
         "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
     );
 
-    printf("V60 AI Reasoning:\n%s\n", report);
+    printf("V61 Policy Enforcement:\n%s\n", report);
 
     tw_identity_string_free(report);
 

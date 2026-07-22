@@ -1920,3 +1920,4 @@ r#"{{
 // Sovereign Identity Rust Core V219 Release
 // Sovereign Identity Rust Core V220 Release
 // Sovereign Identity Rust Core V221 Release
+// Sovereign Identity Rust Core V222 Release

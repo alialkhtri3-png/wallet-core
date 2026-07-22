@@ -60,3 +60,5 @@ char *tw_identity_zora_bridge(const char *address);
 char *tw_identity_network_node(const char *address);
 
 char *tw_identity_reputation_graph(const char *address);
+
+char *tw_identity_cross_chain_intelligence(const char *address);

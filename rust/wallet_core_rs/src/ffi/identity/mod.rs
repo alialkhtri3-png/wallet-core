@@ -1658,3 +1658,5 @@ r#"{{
 // Sovereign Identity Rust Core V75 Module
 
 // Sovereign Identity Rust Core V76 Module
+
+// Sovereign Identity Rust Core V77 Module

@@ -1940,3 +1940,4 @@ r#"{{
 // Sovereign Identity Rust Core V239 Release
 // Sovereign Identity Rust Core V240 Release
 // Sovereign Identity Rust Core V241 Release
+// Sovereign Identity Rust Core V242 Release

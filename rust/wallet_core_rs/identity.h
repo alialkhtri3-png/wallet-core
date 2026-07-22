@@ -13,6 +13,7 @@ uint32_t tw_identity_get_score(void);
 char *tw_identity_analyze_wallet(const char *address);
 char *tw_identity_scan_wallet(const char *address);
 char *tw_identity_scan_chain_wallet(const char *address);
+char *tw_identity_rpc_scan_wallet(const char *address);
 char *tw_identity_get_reputation(void);
 char *tw_identity_export_vc(void);
 
@@ -21,3 +22,7 @@ char *tw_identity_export_vc(void);
 #endif
 
 #endif
+
+char *tw_identity_multichain_scan_wallet(const char *address);
+
+char *tw_identity_graph_analyze_wallet(const char *address);

@@ -32,3 +32,5 @@ char *tw_identity_sybil_analyze_wallet(const char *address);
 char *tw_identity_generate_attestation(const char *address);
 
 char *tw_identity_get_full_report(const char *address);
+
+char *tw_identity_generate_proof(const char *address);

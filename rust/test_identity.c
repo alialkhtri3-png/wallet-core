@@ -3,13 +3,13 @@
 
 int main(){
 
-    char *report = tw_identity_get_full_report(
+    char *proof = tw_identity_generate_proof(
         "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
     );
 
-    printf("V52 Identity SDK Report:\n%s\n", report);
+    printf("V53 Identity Proof:\n%s\n", proof);
 
-    tw_identity_string_free(report);
+    tw_identity_string_free(proof);
 
     return 0;
 }

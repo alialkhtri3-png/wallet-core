@@ -44,3 +44,5 @@ char *tw_identity_resolve_did(const char *address);
 char *tw_identity_verify_credential(const char *address);
 
 char *tw_identity_trust_score(const char *address);
+
+char *tw_identity_decision_engine(const char *address);

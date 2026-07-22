@@ -3,11 +3,11 @@
 
 int main(){
 
-    char *report = tw_identity_trust_score(
+    char *report = tw_identity_decision_engine(
         "0xC9feC3B35382A27e46353005516C4f7364fc0f7A"
     );
 
-    printf("V58 Trust Aggregation:\n%s\n", report);
+    printf("V59 Identity Decision:\n%s\n", report);
 
     tw_identity_string_free(report);
 

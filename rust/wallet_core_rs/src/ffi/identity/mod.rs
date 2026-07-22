@@ -1782,3 +1782,4 @@ r#"{{
 // Sovereign Identity Rust Core V81 Release
 // Sovereign Identity Rust Core V82 Release
 // Sovereign Identity Rust Core V83 Release
+// Sovereign Identity Rust Core V84 Release

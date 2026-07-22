@@ -19,3 +19,7 @@ void tw_identity_string_free(char *ptr);
 #endif
 
 #endif
+
+char *tw_identity_analyze_wallet(void);
+char *tw_identity_get_reputation(void);
+char *tw_identity_export_vc(void);

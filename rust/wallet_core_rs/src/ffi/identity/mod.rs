@@ -1889,3 +1889,4 @@ r#"{{
 // Sovereign Identity Rust Core V188 Release
 // Sovereign Identity Rust Core V189 Release
 // Sovereign Identity Rust Core V190 Release
+// Sovereign Identity Rust Core V191 Release
